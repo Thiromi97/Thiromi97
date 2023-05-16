@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <h1 align="center">Hi 👋, I'm Thiromi Dasanayaka</h1>
-<h3 align="center">Passionate Developer | Web and Mobile App Enthusiast | Exploring New Technologies</h3>
+ <h2 align="left">Hi 👋! My name is Thiromi Dasanayaka </h2>
+<h2 align="right">Passionate Developer | Web and Mobile App Enthusiast | Exploring New Technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thiromi97" alt="thiromi97" /></a> </p> -->
 
-<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+<h3 align="left">👩‍💻  About Me:</h3>
 
 - 🔭 I’m currently working on [Final Year Project](https://github.com/Thiromi97/BIT)
 
@@ -46,11 +45,14 @@ Here are some ideas to get you started:
 
 <!-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) -->
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Thiromi97&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Thiromi97&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiromi97&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thiromi97&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiromi97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+</div>
 
 ### 🔝 Top Contributed Repo
+<img align="right" height="180" src="https://i.imgflip.com/65efzo.gif"  />
+
 ![](https://github-contributor-stats.vercel.app/api?username=Thiromi97&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
@@ -58,4 +60,21 @@ Here are some ideas to get you started:
 
 [![](https://visitcount.itsvg.in/api?id=Thiromi97&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Thiromi97&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Thiromi97/Thiromi97/output/snake.svg" alt="Snake animation" />
+
+###
