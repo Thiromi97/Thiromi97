@@ -1,4 +1,4 @@
- name: Generate snake animation
+name: Generate snake animation
 
 on:
   schedule:
@@ -22,16 +22,10 @@ jobs:
           svg_out_path: ./snake.svg
 
       - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Update snake.svg [skip ci]"
-          commit_user_name: github-actions[bot]
-          commit_user_email: github-actions[bot]@users.noreply.github.com
-
-      - name: Push snake.svg to the output branch
         run: |
-          git branch output
-          git checkout output
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add .
           git commit -m "Update snake.svg"
-          git push -u origin output
+          git push origin HEAD:output
+
