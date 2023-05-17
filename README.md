@@ -69,12 +69,3 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Thiromi97/Thiromi97/output/snake.svg" alt="Snake animation" />
-
-###
