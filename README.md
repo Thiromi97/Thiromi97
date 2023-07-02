@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Final Year Project](https://github.com/Thiromi97/BIT)
 
-- 🌱 I’m currently learning **Laravel,Flutter**
+- 🌱 I’m currently learning **.Net,Angular**
 
 - 📫 How to reach me **dthiromi@yahoo.com**
 
