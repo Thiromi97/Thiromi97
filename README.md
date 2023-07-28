@@ -5,11 +5,15 @@
 
 ## **Hello there! 👋 Welcome to My GitHub Profile!**
 
-I'm Thiromi, a final year Physical Science ICT and BIT student, a DIT and HDIT achiever, and a passionate IT enthusiast with a 🔥 passion for software quality assurance.
+I'm Thiromi, a final year Physical Science ICT , a DIT and HDIT achiever, and a passionate IT enthusiast with a 🔥 passion for software quality assurance.
 
-## **🚀 Embrace Innovation, Build Excellence!**
+## **🚀 Passionate About Technology and Quality!**
 
-As an aspiring software QA enthusiast, I strive to deliver top-notch solutions that exceed expectations. My 🎓 strong academic background combined with 💼 hands-on experience in software testing and quality assurance enables me to ensure seamless product performance.
+As a final year Physical Science ICT and BIT student, I have a 🔥 passion for exploring the world of technology and delivering top-notch solutions. My 🎓 strong academic background provides a solid foundation, and I'm eager to dive into the exciting field of software quality assurance.
+
+## **🌟 Seeking Practical Experience in IT!**
+
+I'm enthusiastic about gaining hands-on experience in software testing and quality assurance. With my dedication and eagerness to learn, I'm ready to contribute to a dynamic IT team and make a meaningful impact. 🤝
 
 ## **🛠️ Tech Stack & Tools**
 
@@ -18,13 +22,9 @@ As an aspiring software QA enthusiast, I strive to deliver top-notch solutions t
 - **IDEs:** IntelliJ IDEA | R Studio | Arduino | Wolfram Mathematica | Code Blocks | NetBeans
 - **Ongoing Learning:** Flutter | Power Apps | Power BI | Cypress
 
-## **🌱 Seeking Internship Opportunities**
-
-As I approach the final stages of my academic journey, I'm eagerly seeking internship opportunities to gain practical experience in a dynamic IT team. I'm excited to collaborate and learn from industry experts to shape the future of technology. 🌟
-
 ## **💬 Let's Connect and Innovate!**
 
-I'm always open to connecting with fellow tech enthusiasts, industry professionals, and anyone passionate about embracing innovation. Let's explore and embark on exciting tech projects together! 🤝
+I'm always open to connecting with fellow tech enthusiasts, industry professionals, and anyone passionate about embracing innovation. Let's explore and embark on exciting tech projects together! 🚀
 
 Let's connect and build the future of technology:
 
