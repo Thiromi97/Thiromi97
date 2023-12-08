@@ -39,3 +39,7 @@ Curious about my projects and accomplishments? Head over to my portfolio and dis
 ## **🚀 Together, Let's Innovate!**
 
 Thank you for visiting my GitHub profile. Let's collaborate, innovate, and create tech wonders that leave a lasting impact on the world! 🚀
+###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/thiromi97/count.svg?"  />
+</div>
