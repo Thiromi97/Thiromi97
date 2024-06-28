@@ -130,3 +130,5 @@ Thank you for visiting my GitHub profile. Let's collaborate, innovate, and creat
 <div align="center">
   <img src="https://profile-counter.glitch.me/thiromi97/count.svg?"  />
 </div>
+<br clear="both">
+<img src="https://raw.githubusercontent.com/IT20642914/IT20642914/output/snake.svg" alt="Snake animation" />
