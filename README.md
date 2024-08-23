@@ -23,7 +23,9 @@ With hands-on experience in both manual and automated testing, I collaborate clo
 
 ## **💬 Let's Connect and Innovate!**
 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/thiromi-dasanayaka-307441250/) to exchange ideas and collaborate on innovative tech solutions.
-
+<p align="left">
+<a href="https://www.hackerrank.com/dasanayakathiro1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dasanayakathiro1" height="30" width="40" /></a>
+</p>
 ## **🌟 Check out my Portfolio**
 
 Explore more about my projects and achievements on my [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4)](https://thiromi97.github.io/Portfolio/) and share your valuable feedback. 😊
