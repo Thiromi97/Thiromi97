@@ -2,6 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/thiromi-dasanayaka-307441250/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4)](https://thiromi97.github.io/Portfolio/)
+<p align="left">
+<a href="https://www.hackerrank.com/dasanayakathiro1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dasanayakathiro1" height="30" width="40" /></a>
+</p>
 
 ## **Hello there! 👋 Welcome to My GitHub Profile!**
 
@@ -31,9 +34,6 @@ Explore more about my projects and achievements on my [![Portfolio](https://img.
 ## **🚀 Together, Let's Innovate!**
 Thank you for visiting my GitHub profile. Let's collaborate, innovate, and create technological wonders that shape the future! 🚀
 ###
-<p align="left">
-<a href="https://www.hackerrank.com/dasanayakathiro1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dasanayakathiro1" height="30" width="40" /></a>
-</p>
 <div align="center">
   <img src="https://profile-counter.glitch.me/thiromi97/count.svg?"  />
 </div>
