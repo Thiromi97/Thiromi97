@@ -7,9 +7,13 @@
 
 I'm Thiromi, a dedicated Quality Assurance Engineer with a Bachelor of Science in Information Technology and valuable experience in manual and automated testing processes.
 
-## **🚀 Passionate About Quality Assurance!**
+## **🚀 Committed to Excellence in Quality Assurance!**
+With hands-on experience in both manual and automated testing, I collaborate closely with development teams to deliver top-notch software solutions that meet user needs and exceed expectations.
 
-Having worked on a variety of software testing projects, I bring a strong foundation in testing methodologies, defect tracking, and test automation to ensure software quality.
+### **Latest Industry Trends I'm Excited About:**
+- **AI in Testing**: Exploring the integration of AI and machine learning to optimize testing processes.
+- **Shift-Left Testing**: Advocating early testing practices to enhance software quality from the project outset.
+- **Test Automation Frameworks**: Utilizing advanced frameworks to increase efficiency and reliability.
 
 ## **🛠️ Tech Stack & Tools**
 
