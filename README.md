@@ -1,7 +1,6 @@
  # Thiromi Dasanayaka 👩‍💻🔬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/thiromi-dasanayaka-307441250/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4)](https://thiromi97.github.io/Portfolio/)
 <a href="https://www.hackerrank.com/dasanayakathiro1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dasanayakathiro1" height="30" width="40" /></a>
 
 ## **Hello there! 👋 Welcome to My GitHub Profile!**
@@ -9,7 +8,7 @@
 I'm Thiromi, a dedicated Quality Assurance Engineer with a Bachelor of Science in Information Technology and valuable experience in manual and automated testing processes.
 
 ## **🚀 Committed to Excellence in Quality Assurance!**
-With hands-on experience in both manual and automated testing, I collaborate closely with development teams to deliver top-notch software solutions that meet user needs and exceed expectations.
+With hands-on experience in manual and automated testing, I collaborate closely with development teams to deliver top-notch software solutions that meet user needs and exceed expectations.
 
 ### **Latest Industry Trends I'm Excited About:**
 - **AI in Testing**: Exploring the integration of AI and machine learning to optimize testing processes.
@@ -24,10 +23,6 @@ With hands-on experience in both manual and automated testing, I collaborate clo
 
 ## **💬 Let's Connect and Innovate!**
 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/thiromi-dasanayaka-307441250/) to exchange ideas and collaborate on innovative tech solutions.
-
-## **🌟 Check out my Portfolio**
-
-Explore more about my projects and achievements on my [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4)](https://thiromi97.github.io/Portfolio/) and share your valuable feedback. 😊
 
 ## **🚀 Together, Let's Innovate!**
 Thank you for visiting my GitHub profile. Let's collaborate, innovate, and create technological wonders that shape the future! 🚀
