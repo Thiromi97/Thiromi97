@@ -27,8 +27,8 @@ Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-bl
 ## **🚀 Together, Let's Innovate!**
 Thank you for visiting my GitHub profile. Let's collaborate, innovate, and create technological wonders that shape the future! 🚀
 ###
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/thiromi97/count.svg?"  />
-</div>
+</div> -->
 <br clear="both">
 <img src="https://raw.githubusercontent.com/IT20642914/IT20642914/output/snake.svg" alt="Snake animation" />
